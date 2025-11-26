@@ -1,4 +1,10 @@
 {
+  "name": "trusselina-site",
+  "version": "1.0.0",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
   }
